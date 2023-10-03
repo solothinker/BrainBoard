@@ -5,7 +5,8 @@ This project explores the development of a BCI-powered keyboard, leveraging Next
 
 ##  Motivation
 Once __Elon Musk__ said-”Drug dealers know more about running a business than 95% of business professors.” Following Breaking Bad scene is the inspiration for the BrainBoard BCI Keyboard.
-<img src="https://github.com/solothinker/BrainBoard/blob/main/Data/gifFile.gif" width="500" height="300"/>
+
+<img src="https://github.com/solothinker/BrainBoard/blob/main/Data/gifFile.gif" width="50%" height="50%"/>
 
 ## Keyboard Architecture
 The BIC keyboard has two layers 
