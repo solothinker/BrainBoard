@@ -8,6 +8,10 @@ Once __Elon Musk__ said-”Drug dealers know more about running a business than 
 
 ![BrainBoard](https://github.com/solothinker/BrainBoard/blob/main/Data/gifFile.gif)
 
+Performing the same steps in the BrainBoard.
+
+![BB](https://github.com/solothinker/BrainBoard/blob/main/Data/BrainBoard.gif)
+
 
 ## Keyboard Architecture
 The BIC keyboard has two layers 
